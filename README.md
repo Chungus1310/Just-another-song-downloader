@@ -1,6 +1,7 @@
 # 🎵 Just Another Song Downloader 🎵
 
 **Your friendly neighborhood music downloader!** This app helps you grab tunes from Spotify and (possibly) Yandex Music, convert them into different formats, and keep them organized. All while looking pretty slick! 
+Supports spotify songs, albums, and playlists!
 
 ![Main Screen](./ss1.png)  
 ![Downloader Interface](./ss2.png)
