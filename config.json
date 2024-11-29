@@ -1,0 +1,14 @@
+{
+    "output_dir": "downloads",
+    "converted_dir": "converted",
+    "supported_formats": [
+        "mp3",
+        "wav",
+        "m4a",
+        "flac"
+    ],
+    "default_format": "mp3",
+    "max_concurrent_downloads": 3,
+    "spotify_bitrate": "128k",
+    "spotify_threads": 4
+}
